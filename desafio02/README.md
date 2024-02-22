@@ -9,13 +9,9 @@ Através desse recurso, a IA identifica rostos contidos na imagem e os numera.
 <img align="right" src="./imagens/imagem1.png" width=""/> 
 
 
-02 - O recurso trás algumas imagens de exemplo para que seja possível realizar testes do serviço e até mesmo a possibilidade de realizar upload de uma imagem de sua preferência, utilizei uma imagem do própio exemplo já disponíveis na aplicação. No meu caso, fiz o upload e minha face foi reconhecida:
+02 - O recurso trás algumas imagens de exemplo para que seja possível realizar testes do serviço e até mesmo a possibilidade de realizar upload de uma imagem de sua preferência, utilizei uma imagem do própio exemplo já disponíveis na aplicação.
 
 <img align="right" src="./inputs/download.png" width=""/> 
-
-
-No meu caso, fiz o upload e minha face foi reconhecida:
-<img align="right" src="./outputs/retornoAnalise.png" width=""/> 
 
 Após ser processado, o rosto foi detectado:
 
