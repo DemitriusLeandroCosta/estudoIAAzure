@@ -199,8 +199,7 @@ Revise os gráficos que mostram o desempenho do modelo. O gráfico de **resíduo
 ~~~
 <h2>
     <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html">
-    </a>
-    <span> Informações retiradas da página - Microsoft Learn</span>
+    Informações retiradas da página - Microsoft Learn </a>
 </h2>
 
 
