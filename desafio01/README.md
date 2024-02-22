@@ -37,12 +37,14 @@ OBS. Como é um ambiente de Estudo, as configuração para NETWORK, pode ficar c
 
 
 5. No estúdio Azure Machine Learning, você deverá ver seu espaço de trabalho recém-criado. Caso contrário, selecione Todos os espaços de trabalho no menu à esquerda e selecione o espaço de trabalho que você acabou de criar.
+ <img align="center" src="./imagens/tela02a.PNG">
+    <span>Tela 04</span>
 
 ## Use aprendizado de máquina automatizado para treinar um modelo
 
 1. No [Azure Machine Learning Studio](https://ml.azure.com/home?tid=da49a844-e2e3-40af-86a6-c3819d704f49), veja a página **ML Automatizado**.
 
-2. Crie um novo trabalho de ML automatizado com as seguintes configurações, avançando quando necessário pela interface do usuário:
+2. Crie um novo trabalho de ML automatizado com as seguintes configurações, avançando quando necessário pela interface do usuário: 
 
 ### Configurações básicas:
 
@@ -195,7 +197,10 @@ Revise os gráficos que mostram o desempenho do modelo. O gráfico de **resíduo
   ]
 }
 ~~~
+<h2>
+    <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html">
+    </a>
+    <span> Informações retiradas da página - Microsoft Learn</span>
+</h2>
 
-#### Pronto, você acabou de criar e treinar um modelo que prevê o número de aluguels de bicicletas esperados em um determinado dia, com base em características sazonais e meteorológicas.
 
-#### Caso tenha criado uma conta gratuita, após fazer os testes é recomendado excluir as sessões e recursos para não ocasionar em cobranças caso expire limite do uso grátis.
