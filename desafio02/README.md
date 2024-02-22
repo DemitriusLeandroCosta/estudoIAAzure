@@ -29,7 +29,6 @@ Com esse recurso, a IA adiciona descrição às imagens adicionadas.
 02 - Você pode usar as imagens disponíveis para teste ou fazer upload da sua própria imagem. Utilizei a mesma imagem usada para fazer a detecção de faces, e a imagem foi descrita,:
 <img align="right" src="./outputs/retornoAnaliseDescricao.PNG" width=""/> 
 
-
 ## Conclusão de aprendizagem
 
 A IA tem amuitos  recursos que podem trazer  facilidades para o nosso dia-a-dia e já está sendo realidade em muitos aspectos, principalmente com relação a segurança pública.
