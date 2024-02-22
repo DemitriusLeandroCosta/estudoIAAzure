@@ -13,13 +13,13 @@
 * **Grupo de recursos**: Crie ou selecione um grupo de recursos.
 * **Nome**: Insira um nome exclusivo para seu espaço de trabalho.
 * **Região**: Selecione a região geográfica mais próxima, se atende para não escolher uma região que tenha um custo mais elevado.
-
-
-     <img align="center" src="./imagens/tela01a.PNG">
-    <span> Modelo de Previsão com Microsoft Azure</span>
-
 * **Conta de armazenamento**: observe a nova conta de armazenamento padrão que será criada para seu espaço de trabalho.
 * **Cofre de chaves**: Observe o novo cofre de chaves padrão que será criado para seu espaço de trabalho.
+
+     <img align="center" src="./imagens/tela01a.PNG">
+    <span>Tela 01</span>
+
+
 * **Insights de aplicativo**: observe o novo recurso padrão de insights de aplicativo que será criado para seu espaço de trabalho.
 * **Registro de contêiner**: Nenhum (um será criado automaticamente na primeira vez que você implantar um modelo em um contêiner).
 
