@@ -1,6 +1,4 @@
 <h1>
-    <a href="https://web.dio.me/track/microsoft-azure-ai-fundamentals?page=1&search=&tab=path/">
-     <img align="center" width="60px" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
     <span> Modelo de Previsão com Microsoft Azure</span>
 </h1>
 ## Como criar um espaço de trabalho do Azure Machine Learning
