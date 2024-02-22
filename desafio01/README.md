@@ -27,6 +27,9 @@
 
 4. Selecione **Launch Studio** (ou abra uma nova guia do navegador e navegue até https://ml.azure.com e entre no Azure Machine Learning Studio usando sua conta da Microsoft). Feche todas as mensagens exibidas.
 
+  <img align="center" src="./imagens/tela01b.PNG">
+    <span>Tela 02</span>
+
 5. No estúdio Azure Machine Learning, você deverá ver seu espaço de trabalho recém-criado. Caso contrário, selecione Todos os espaços de trabalho no menu à esquerda e selecione o espaço de trabalho que você acabou de criar.
 
 ## Use aprendizado de máquina automatizado para treinar um modelo
