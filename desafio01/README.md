@@ -30,6 +30,12 @@
   <img align="center" src="./imagens/tela01b.PNG">
     <span>Tela 02</span>
 
+OBS. Como é um ambiente de Estudo, as configuração para NETWORK, pode ficar como PUBLIC:
+
+ <img align="center" src="./imagens/tela01c.PNG">
+    <span>Tela 03</span>
+
+
 5. No estúdio Azure Machine Learning, você deverá ver seu espaço de trabalho recém-criado. Caso contrário, selecione Todos os espaços de trabalho no menu à esquerda e selecione o espaço de trabalho que você acabou de criar.
 
 ## Use aprendizado de máquina automatizado para treinar um modelo
