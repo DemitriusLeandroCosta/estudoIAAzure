@@ -61,10 +61,9 @@ Para fins didáticos permita o acesso anônimo ao blob para simplificar e facili
 02 - Na próxima etapa, em "Conectar a seus dados", na parte "Fonte de dados", selecione "Armazenamento de Blob do Azure":
 
 03 - Selecione o elemento:
-<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/4d65ac7f-15a1-45e6-8fda-5d12853aea6a" width=""/>
 
 04 - Em seguida, selecione novamente o contêiner ("coffeereviews") e, depois de selecionado, clique na opção azul embaixo:
-<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/55bf4193-5879-41f4-ab60-1a955aa12fcb" width=""/>
+
 
 05 - Daqui para frente, recomendo que siga a [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) para facilitar a compreensão dos passos necessários! Vá até o passo 17 e então volte para continuarmos :)
 
